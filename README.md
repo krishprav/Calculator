@@ -2,7 +2,7 @@
 
 
 
-https://krishprav.github.io/Calculator/
+[https://krishprav.github.io/Calculator/](https://krishprav.github.io/oibsip_1_Calculator/)
 
 # Neumorphic Calculator
 
